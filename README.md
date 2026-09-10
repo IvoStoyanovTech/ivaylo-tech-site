@@ -22,6 +22,7 @@ Configuration reference: https://vercel.com/docs/project-configuration/vercel-js
 
 Serve the `public` directory with any static HTTP server for local development. No dependencies or build tools are needed.
 
-The annual calendar is a labeled snapshot of 1,511 contributions from 11 September 2025 through 10 September 2026. Update `contributions.json` to refresh that calendar. Latest profile-repository commits refresh directly from the public GitHub API, with a saved fallback. Do not add GitHub tokens to frontend code.
+The annual calendar is a labeled snapshot of 1,511 contributions from 11 September 2025 through 10 September 2026. Update `contributions.json` to refresh that calendar. The page also includes Gaming, Sports, Chess, Anime, and Robotics interests. Do not add GitHub tokens to frontend code.
 
 Google Fonts uses system-font fallbacks. No backend, database, or secrets are required. This repository contains the finished website, without private preview hosting configuration.
+
